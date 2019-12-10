@@ -1,0 +1,9 @@
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.csprojAssemblyReference.cache
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.Form1.resources
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.Properties.Resources.resources
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.csproj.GenerateResource.cache
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\bin\Debug\KlientForm.exe.config
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\bin\Debug\KlientForm.exe
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\bin\Debug\KlientForm.pdb
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.exe
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\KlientForm\obj\Debug\KlientForm.pdb

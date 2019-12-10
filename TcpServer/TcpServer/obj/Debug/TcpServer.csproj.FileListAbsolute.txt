@@ -1,0 +1,13 @@
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.ServerForm.resources
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\KlientForm.exe
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\KlientForm.pdb
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\bin\Debug\KlientForm.exe.config
+C:\Users\Johannes\Documents\Skola\Programering\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
